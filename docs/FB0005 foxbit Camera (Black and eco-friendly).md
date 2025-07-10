@@ -86,7 +86,7 @@ Modify the camera type to esp32-cam.
 
 ![9](./media/9.png)
 
-Configure WiFi:
+Configure WiFi:This WiFi must be in the same local area network (LAN) as the computer being used.
 
 ![10](./media/10.png)
 
