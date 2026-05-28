@@ -1,10 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: FB0005 foxbit Camera (Black and eco-friendly)
+   :caption: MB0198 Cat Face Camera (Black and eco-friendly)
 
    README.md
-   docs/FB0005 foxbit Camera (Black and eco-friendly)
+   docs/MB0198 Cat Face Camera (Black and eco-friendly).md
 
 
 
