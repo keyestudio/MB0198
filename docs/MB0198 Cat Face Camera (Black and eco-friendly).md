@@ -23,7 +23,7 @@ The fox:bit camera adopts the ESP32-S module and the OV2640 camera module. It ca
 - Built-in Lwip and FreeRTOS.
 - Support Smart Config/AirKiss intelligent configuration.
 - Power range: 5V
-- Operating current: 0.21A
+- Average operating current: 0.21A
 - Product dimensions: 55*51mm
 
 ## Schematic Diagram
@@ -102,7 +102,7 @@ If the IDE shows as shown below, it indicates that the test code has been upload
 
 **Test**
 
-Set the baud rate to 11500 and remove the IO0 and GND lines. Press the reset button and the LED indicator will flash. If it is unable to connect to WiFi, please press the reset button again.
+Set the baud rate to 115200 . Press the reset button and the LED indicator will flash. If it is unable to connect to WiFi, please press the reset button again.
 
 ![15](./media/15.png)
 
